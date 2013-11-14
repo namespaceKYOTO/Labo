@@ -2,8 +2,8 @@ echo off
 setlocal
 
 rem set local environment path
-set JAVAC_PATH=C:\"Program Files"\Java\jdk1.7.0_40\bin
-set JAVA_PATH=C:\"Program Files"\Java\jdk1.7.0_40\bin
+set JAVAC_PATH=
+set JAVA_PATH=
 
 
 cd .\bat
