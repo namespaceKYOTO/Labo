@@ -1,0 +1,8 @@
+/--------------------------------------/
+ * Hello
+ *
+ * command -> help   : help display
+ *            build  : build java source
+ *            run    : execute java
+ *            exit   : eixt
+/--------------------------------------/
