@@ -1,8 +1,12 @@
 /--------------------------------------/
- * Hello
+ * Welcome to Java Labo
  *
- * command -> help   : help display
- *            build  : build java source
- *            run    : execute java
- *            exit   : eixt
+ * command -> help    : help display
+ *            all     : all (delete & compile & run)
+ *            compile : compile java source
+ *            run     : execute java
+ *                    : you specify the file you want to run
+ *                    : e.g. run [PackageName.ClassFileName]
+ *            delete  : delete out file
+ *            exit    : eixt
 /--------------------------------------/
