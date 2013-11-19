@@ -1,3 +1,3 @@
 delete
-compile
-run %1
+compile %1
+run %2
